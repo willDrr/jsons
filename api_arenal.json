@@ -1,7 +1,7 @@
 [
   {
     "title": "Arenal Volcano Hike",
-    "imgUrl": "/images/67192b9ec459e894079381.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/67192b9ec459e894079381.webp",
     "activityTypes": ["Group tour", "Private Tour"],
     "duration": ["Group", "Private", "1-2 hours"],
     "difficulty": "Easy",
@@ -10,7 +10,7 @@
   },
   {
     "title": "Arenal Volcano Highlights Tour: Hanging Bridges + La Fortuna Waterfalls + Arenal Volcano Hike",
-    "imgUrl": "/images/67193a693bcbe000013475.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/67193a693bcbe000013475.webp",
     "activityTypes": ["Private Tour", "Group tour"],
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Mistico Hanging Bridges + La Fortuna Waterfalls",
-    "imgUrl": "/images/67192acec78e1040693704.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/67192acec78e1040693704.webp",
     "activityTypes": ["Private Tour", "Group tour"],
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Arenal Volcano Hike + La Fortuna Waterfalls",
-    "imgUrl": "/images/67251cf7a1e5f636422511.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/67251cf7a1e5f636422511.webp",
     "activityTypes": ["Private Tour", "Group tour"],
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
@@ -37,7 +37,7 @@
   },
   {
     "title": "Arenal Volcano Hike + La Fortuna Waterfalls + Eco Termales Hot Springs",
-    "imgUrl": "/images/6719283309d62497402413.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/6719283309d62497402413.webp",
     "activityTypes": ["Private Tour"],
     "duration": ["Private", "Full Day"],
     "difficulty": "Easy",
@@ -46,7 +46,7 @@
   },
   {
     "title": "Hanging Bridges + La Fortuna Waterfalls + Volcano Hike + Eco Termales Hot Springs",
-    "imgUrl": "/images/67191d4e4c132091492939.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/67191d4e4c132091492939.webp",
     "activityTypes": ["Private Tour", "Group tour"],
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
@@ -55,7 +55,7 @@
   },
   {
     "title": "Arenal Zip Lining Over Waterfalls",
-    "imgUrl": "/images/671a6254d1a11244030879.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a6254d1a11244030879.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Moderate",
@@ -64,7 +64,7 @@
   },
   {
     "title": "Sky Adventures: SkyTrek Canopy",
-    "imgUrl": "/images/671a4d5eeac3f682435825.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a4d5eeac3f682435825.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
@@ -73,7 +73,7 @@
   },
   {
     "title": "Rio Celeste Adventure Hike",
-    "imgUrl": "/images/67195eda8f0ed607883786.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/67195eda8f0ed607883786.webp",
     "activityTypes": ["Private Tour", "Group tour"],
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Moderate and Difficult",
@@ -82,7 +82,7 @@
   },
   {
     "title": "Sloths Watching Tour",
-    "imgUrl": "/images/671942f8df97e192060429.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671942f8df97e192060429.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "1-2 hours"],
     "difficulty": "Easy",
@@ -91,7 +91,7 @@
   },
   {
     "title": "Sloths Watching + Costa Rican Farm Experience",
-    "imgUrl": "/images/671a7afcb1251803963910.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a7afcb1251803963910.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Full Day"],
     "difficulty": "Easy",
@@ -109,7 +109,7 @@
   },
   {
     "title": "Night Walk Tour + Costa Rican Typical Dinner",
-    "imgUrl": "/images/671a813c96b16458113313.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a813c96b16458113313.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "1-2 hours"],
     "difficulty": "Easy",
@@ -118,7 +118,7 @@
   },
   {
     "title": "Fortuna SkyTram +SkyTrek + SkyWalk Combo",
-    "imgUrl": "/images/671a528a7a7d6864829189.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a528a7a7d6864829189.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
@@ -127,7 +127,7 @@
   },
   {
     "title": "River Safari Float Tour",
-    "imgUrl": "/images/671a8938c956e875678868.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a8938c956e875678868.webp",
     "activityTypes": ["Group tour", "Private Tour"],
     "duration": ["Group", "Private", "Half Day"],
     "difficulty": "Easy",
@@ -136,7 +136,7 @@
   },
   {
     "title": "Sarapiqui River Rafting (class III-IV)",
-    "imgUrl": "/images/671a8bf0b3368663956482.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a8bf0b3368663956482.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Full Day"],
     "difficulty": "Moderate",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Balsa River Rafting (class II-III)",
-    "imgUrl": "/images/607af3d34be60882995403.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/607af3d34be60882995403.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Full Day"],
     "difficulty": "Easy",
@@ -154,7 +154,7 @@
   },
   {
     "title": "Costa Rican Farm Experience",
-    "imgUrl": "/images/671a821a26a70704059513.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a821a26a70704059513.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
@@ -163,7 +163,7 @@
   },
   {
     "title": "Proyecto Asis: Regular Tour",
-    "imgUrl": "/images/607301398b022193489607.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/607301398b022193489607.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "1-2 hours"],
     "difficulty": "Easy",
@@ -172,7 +172,7 @@
   },
   {
     "title": "Proyecto Asis: Tour + Volunteer",
-    "imgUrl": "/images/6073055c0c15d719983033.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/6073055c0c15d719983033.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Arenal Adventure Combo",
-    "imgUrl": "/images/671a6924d7671628268556.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671a6924d7671628268556.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Full Day"],
     "difficulty": "Moderate",
@@ -190,7 +190,7 @@
   },
   {
     "title": "PureTrek Canyoning",
-    "imgUrl": "/images/609141d906aab383775846.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/609141d906aab383775846.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy and Moderate",
@@ -199,7 +199,7 @@
   },
   {
     "title": "Bird Watching at Arenal Lake & Peninsula Trail",
-    "imgUrl": "/images/671d00dd78074040964577.webp",
+    "imgUrl": "https://touristapp.pages.dev/images/671d00dd78074040964577.webp",
     "activityTypes": ["Group tour"],
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
