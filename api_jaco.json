@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Rainforest ATV Tour",
+    "imgUrl": "https://touristapp.pages.dev/images/64fc7ea03b0df730257899.webp",
+    "activityTypes": ["Group tour", "Private Tour"],
+    "duration": ["Group", "Half Day"],
+    "difficulty": "Moderate",
+    "price": "$ 95.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Jaco Hiking Tour: Carara National Park",
+    "imgUrl": "https://touristapp.pages.dev/images/60632247508ef518197056_2.webp",
+    "activityTypes": ["Group tour", "Private Tour"],
+    "duration": ["Group", "Half Day"],
+    "difficulty": "Easy",
+    "price": "$ 65.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Jaco Waterfall Tour",
+    "imgUrl": "https://touristapp.pages.dev/images/615619103b882990610093_1.webp",
+    "activityTypes": ["Group tour", "Private Tour"],
+    "duration": ["Group", "Half Day"],
+    "difficulty": "Moderate",
+    "price": "$ 75.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Jaco Horseback Riding Tour",
+    "imgUrl": "https://touristapp.pages.dev/images/615a7c6bbea66500225424.webp",
+    "activityTypes": ["Group tour", "Private Tour"],
+    "duration": ["Group", "2-3 hours"],
+    "difficulty": "Easy",
+    "price": "$ 65.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Jaco Canopy Tour",
+    "imgUrl": "https://touristapp.pages.dev/images/616334a64cc58448625837.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Half Day"],
+    "difficulty": "Moderate",
+    "price": "$ 90.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Jaco Boat Tour to Tortuga Island",
+    "imgUrl": "https://touristapp.pages.dev/images/6162634dd3928952061151.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Full Day"],
+    "difficulty": "Easy",
+    "price": "$ 110.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Monteverde Cloud Forest Experience",
+    "imgUrl": "https://touristapp.pages.dev/images/616334a64cc58448625837.webp",
+    "activityTypes": ["Private Tour"],
+    "duration": ["Private", "Full Day"],
+    "difficulty": "Easy and Moderate",
+    "price": "$ 259.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Damas Island Mangrove Boat Experience",
+    "imgUrl": "https://touristapp.pages.dev/images/61526920b7978781799510_1.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Half Day"],
+    "difficulty": "Easy",
+    "price": "$ 105.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Jungle Crocodile Safari Tour",
+    "imgUrl": "https://touristapp.pages.dev/images/6568cc8198917035211922.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "1-2 hours"],
+    "difficulty": "Easy",
+    "price": "$ 79.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Manuel Antonio National Park Tour",
+    "imgUrl": "https://touristapp.pages.dev/images/60632247508ef518197056_2.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Full Day"],
+    "difficulty": "Easy",
+    "price": "$ 105.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "10 in 1 Total Adventure Combo",
+    "imgUrl": "https://touristapp.pages.dev/images/615619103b882990610093_1.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Full Day"],
+    "difficulty": "Easy",
+    "price": "$ 209.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Savegre River Rafting (II-III)",
+    "imgUrl": "https://touristapp.pages.dev/images/6154ba30774a5080898665_1.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Full Day"],
+    "difficulty": "Easy",
+    "price": "$ 132.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Naranjo River Rafting (III-IV)",
+    "imgUrl": "https://touristapp.pages.dev/images/615513ff8a252617015963_1.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Full Day"],
+    "difficulty": "Moderate",
+    "price": "$ 115.00 USD +tx.",
+    "readMoreLink": "#"
+  },
+  {
+    "title": "Chorro River Rafting (IV-V)",
+    "imgUrl": "https://touristapp.pages.dev/images/615518c33d9b2589776628_1.webp",
+    "activityTypes": ["Group tour"],
+    "duration": ["Group", "Full Day"],
+    "difficulty": "Moderate and Difficult",
+    "price": "$ 132.00 USD +tx.",
+    "readMoreLink": "#"
+  }
+]
