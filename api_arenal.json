@@ -6,7 +6,8 @@
     "duration": ["Group", "Private", "1-2 hours"],
     "difficulty": "Easy",
     "price": "$ 69.00 USD +tx.",
-    "readMoreLink": "#"
+    "readMoreLink": "#",
+    "pathname": "arenal-volcano-hike"
   },
   {
     "title": "Arenal Volcano Highlights Tour: Hanging Bridges + La Fortuna Waterfalls + Arenal Volcano Hike",
@@ -15,7 +16,8 @@
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 159.00 USD +tx.",
-    "readMoreLink": "#"
+    "readMoreLink": "#",
+    "pathname": "arenal-volcano-highlights-tour-hanging-bridges-and-la-fortuna-waterfalls-and-arenal-volcano-hike"
   },
   {
     "title": "Mistico Hanging Bridges + La Fortuna Waterfalls",
@@ -24,7 +26,8 @@
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 129.00 USD +tx.",
-    "readMoreLink": "#"
+    "readMoreLink": "#",
+    "pathname": "mistico-hanging-bridges-and-la-fortuna-waterfalls"
   },
   {
     "title": "Arenal Volcano Hike + La Fortuna Waterfalls",
@@ -33,7 +36,8 @@
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 129.00 USD +tx.",
-    "readMoreLink": ""
+    "readMoreLink": "",
+    "pathname": "arenal-volcano-hike-and-la-fortuna-waterfalls"
   },
   {
     "title": "Arenal Volcano Hike + La Fortuna Waterfalls + Eco Termales Hot Springs",
@@ -42,7 +46,8 @@
     "duration": ["Private", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 219.00 USD +tx.",
-    "readMoreLink": "#"
+    "readMoreLink": "#",
+    "pathname": "arenal-volcano-hike-and-la-fortuna-waterfalls-and-eco-termales-hot-springs"
   },
   {
     "title": "Hanging Bridges + La Fortuna Waterfalls + Volcano Hike + Eco Termales Hot Springs",
@@ -51,7 +56,8 @@
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 230.00 USD +tx.",
-    "readMoreLink": "#hike_waterfalls_hanging_bridges_hot_springs?"
+    "readMoreLink": "#hike_waterfalls_hanging_bridges_hot_springs?",
+    "pathname": "hanging-bridges-and-la-fortuna-waterfalls-and-volcano-hike-and-eco-termales-hot-springs"
   },
   {
     "title": "Arenal Zip Lining Over Waterfalls",
@@ -60,7 +66,8 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Moderate",
     "price": "$ 89.00 USD +tx.",
-    "readMoreLink": "#arenal_zip_lining_over_waterfalls?"
+    "readMoreLink": "#arenal_zip_lining_over_waterfalls?",
+    "pathname": "arenal-zip-lining-over-waterfalls"
   },
   {
     "title": "Sky Adventures: SkyTrek Canopy",
@@ -69,7 +76,8 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
     "price": "$ 135.00 USD +tx.",
-    "readMoreLink": "#zip_lining_arenal_sky_adventures?"
+    "readMoreLink": "#zip_lining_arenal_sky_adventures?",
+    "pathname": "sky-adventures-skytrek-canopy"
   },
   {
     "title": "Rio Celeste Adventure Hike",
@@ -78,7 +86,8 @@
     "duration": ["Private", "Group", "Full Day"],
     "difficulty": "Moderate and Difficult",
     "price": "$ 119.00 USD +tx.",
-    "readMoreLink": "#rio_celeste_adventure_hike?"
+    "readMoreLink": "#rio_celeste_adventure_hike?",
+    "pathname": "rio-celeste-adventure-hike"
   },
   {
     "title": "Sloths Watching Tour",
@@ -87,7 +96,8 @@
     "duration": ["Group", "1-2 hours"],
     "difficulty": "Easy",
     "price": "$ 65.00 USD +tx.",
-    "readMoreLink": "#sloths_watching_tour?"
+    "readMoreLink": "#sloths_watching_tour?",
+    "pathname": "sloths-watching-tour"
   },
   {
     "title": "Sloths Watching + Costa Rican Farm Experience",
@@ -96,7 +106,8 @@
     "duration": ["Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 119.00 USD +tx.",
-    "readMoreLink": "#slots_watching_costarican_farm_experience?"
+    "readMoreLink": "#slots_watching_costarican_farm_experience?",
+    "pathname": "sloths-watching-and-costa-rican-farm-experience"
   },
   {
     "title": "Sloths Watching + Costa Rican Farm Experience+ Ecotermales Hot Springs",
@@ -105,7 +116,8 @@
     "duration": ["Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 195.00 USD +tx.",
-    "readMoreLink": "#slots_watching_costarican_farm_experience_ecotermales?"
+    "readMoreLink": "#slots_watching_costarican_farm_experience_ecotermales?",
+    "pathname": "sloths-watching-and-costa-rican-farm-experience-and-ecotermales-hot-springs"
   },
   {
     "title": "Night Walk Tour + Costa Rican Typical Dinner",
@@ -114,7 +126,8 @@
     "duration": ["Group", "1-2 hours"],
     "difficulty": "Easy",
     "price": "$ 85.00 USD +tx.",
-    "readMoreLink": "#night_walk_tour_fortuna?"
+    "readMoreLink": "#night_walk_tour_fortuna?",
+    "pathname": "night-walk-tour-and-costa-rican-typical-dinner"
   },
   {
     "title": "Fortuna SkyTram +SkyTrek + SkyWalk Combo",
@@ -123,7 +136,8 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
     "price": "$ 149.00 USD +tx.",
-    "readMoreLink": "#ziplining_hanging_bridges_hike_tram_arenal?"
+    "readMoreLink": "#ziplining_hanging_bridges_hike_tram_arenal?",
+    "pathname": "fortuna-skytram-and-skytrek-and-skywalk-combo"
   },
   {
     "title": "River Safari Float Tour",
@@ -132,7 +146,8 @@
     "duration": ["Group", "Private", "Half Day"],
     "difficulty": "Easy",
     "price": "$ 80.00 USD +tx.",
-    "readMoreLink": "#river_safari_float_tour?"
+    "readMoreLink": "#river_safari_float_tour?",
+    "pathname": "river-safari-float-tour"
   },
   {
     "title": "Sarapiqui River Rafting (class III-IV)",
@@ -141,7 +156,8 @@
     "duration": ["Group", "Full Day"],
     "difficulty": "Moderate",
     "price": "$ 105.00 USD +tx.",
-    "readMoreLink": "#sarapiqui_river_rafting?"
+    "readMoreLink": "#sarapiqui_river_rafting?",
+    "pathname": "sarapiqui-river-rafting-class-iii-iv"
   },
   {
     "title": "Balsa River Rafting (class II-III)",
@@ -150,7 +166,8 @@
     "duration": ["Group", "Full Day"],
     "difficulty": "Easy",
     "price": "$ 85.00 USD +tx.",
-    "readMoreLink": "#balsa_river_rafting?"
+    "readMoreLink": "#balsa_river_rafting?",
+    "pathname": "balsa-river-rafting-class-ii-iii"
   },
   {
     "title": "Costa Rican Farm Experience",
@@ -159,7 +176,8 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
     "price": "$ 89.00 USD +tx.",
-    "readMoreLink": "#costa_rican_farm_experience?"
+    "readMoreLink": "#costa_rican_farm_experience?",
+    "pathname": "costa-rican-farm-experience"
   },
   {
     "title": "Proyecto Asis: Regular Tour",
@@ -168,7 +186,8 @@
     "duration": ["Group", "1-2 hours"],
     "difficulty": "Easy",
     "price": "$ 125.00 USD +tx.",
-    "readMoreLink": "#proyecto_asis?"
+    "readMoreLink": "#proyecto_asis?",
+    "pathname": "proyecto-asis-regular-tour"
   },
   {
     "title": "Proyecto Asis: Tour + Volunteer",
@@ -177,7 +196,8 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
     "price": "$ 149.00 USD +tx.",
-    "readMoreLink": "#proyecto_asis_volunteer?"
+    "readMoreLink": "#proyecto_asis_volunteer?",
+    "pathname": "proyecto-asis-tour-and-volunteer"
   },
   {
     "title": "Arenal Adventure Combo",
@@ -186,7 +206,8 @@
     "duration": ["Group", "Full Day"],
     "difficulty": "Moderate",
     "price": "$ 135.00 USD +tx.",
-    "readMoreLink": "#arenal_adventure_combo?"
+    "readMoreLink": "#arenal_adventure_combo?",
+    "pathname": "arenal-adventure-combo"
   },
   {
     "title": "PureTrek Canyoning",
@@ -195,7 +216,8 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy and Moderate",
     "price": "$ 105.00 USD +tx.",
-    "readMoreLink": "#canyoning_puretrek_arenal?"
+    "readMoreLink": "#canyoning_puretrek_arenal?",
+    "pathname": "puretrek-canyoning"
   },
   {
     "title": "Bird Watching at Arenal Lake & Peninsula Trail",
@@ -204,6 +226,7 @@
     "duration": ["Group", "Half Day"],
     "difficulty": "Easy",
     "price": "$ 132.00 USD +tx.",
-    "readMoreLink": "#bird_watching_arenal?"
+    "readMoreLink": "#bird_watching_arenal?",
+    "pathname": "bird-watching-at-arenal-lake-and-peninsula-trail"
   }
 ]
